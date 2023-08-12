@@ -1,5 +1,5 @@
 /*
-spring data jpa tarafından sağlanan repositry arayüzünü kullanarak customer datalarına erişmek için olusturuldu.
+spring data jpa tarafından sağlanan repository arayüzünü kullanarak customer datalarına erişmek için olusturuldu.
  */
 
 package com.example.bank.repository;
